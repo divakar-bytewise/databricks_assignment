@@ -67,8 +67,7 @@ This project demonstrates a structured data engineering pipeline using **Databri
 |---------------|---------|
 | id            | Integer |
 | email         | String  |
-| first_name    | String  |
-| last_name     | String  |
+| emp_name    | String  |
 | avatar        | String  |
 | site_address  | String  |
 | load_date     | Date    |
